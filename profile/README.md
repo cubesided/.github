@@ -4,7 +4,7 @@
 **Welcome to cubesided.**<br>
 This page includes the git respositories for the Astrix 3600 and beyond.
 
-#### Respositories & Versions:
+#### Repositories & Versions:
 **Astrix OSr*** -<br>
 OSr1 (2025 H1 - 2026 H1) [Astrix 3600]<br>
 <!--OSr2 (2026 H1 - 2026 H2)<br>
