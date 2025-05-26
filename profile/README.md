@@ -19,4 +19,4 @@ Austra [RC3/KR1] (2034)-->
 <h6>More Versions will be released in the future.<br>© cubesided 2025 - Owned/Managed by actium_xyz</h6>
 
 
-[<kbd> <br> fsh.CDN (ngrok) <br> </kbd>](https://dynamic-highly-gnu.ngrok-free.app/)
+[<kbd> <br> Website <br> </kbd>](https://cubesided.github.io/)
