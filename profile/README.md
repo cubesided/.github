@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cubesided/.github/refs/heads/main/profile/lgegit.png" alt="cubesided logo" width="180">
+<img src="https://raw.githubusercontent.com/cubesided/.github/refs/heads/main/profile/lgegit.svg" alt="cubesided logo" width="180">
 <hr>
 
 **Welcome to cubesided.**<br>
