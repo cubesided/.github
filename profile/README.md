@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/cubesided/.github/refs/heads/main/profile/lge25.png" alt="cubesided logo" width="180">
+<img src="https://raw.githubusercontent.com/cubesided/.github/refs/heads/main/profile/lgegit.png" alt="cubesided logo" width="180">
 <hr>
 
 **Welcome to cubesided.**<br>
@@ -6,7 +6,7 @@ This page includes the git respositories for the Astrix 3600 and beyond.
 
 #### Repositories & Versions:
 **Astrix OSr*** -<br>
-OSr1 (2025 H1 - 2026 H1) [Astrix 3600]<br>
+OSr1 (2025 H2 - 2026 H2) [Astrix 3600]<br>
 <!--OSr2 (2026 H1 - 2026 H2)<br>
 OSr3 (2026 H2 - mid 2027)<br>
 
@@ -19,4 +19,4 @@ Austra [RC3/KR1] (2034)-->
 <h6>More Versions will be released in the future.<br>© cubesided 2025 - Owned/Managed by actium_xyz</h6>
 
 
-[<kbd> <br> Website <br> </kbd>](https://cubesided.github.io/)
+[<kbd> <br> Website <br> </kbd>](https://cubesided.net/)
